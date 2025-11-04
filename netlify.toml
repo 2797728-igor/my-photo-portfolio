@@ -1,10 +1,6 @@
 [build] 
-"  publish = \"public\"" 
-"  command = \"hugo --gc --minify\"" 
-Режим вывода команд на экран (ECHO) включен.
+  publish = "public" 
+  command = "hugo --gc --minify" 
+ 
 [build.environment] 
-"  HUGO_VERSION = \"0.125.0\"" 
-"  NODE_ENV = \"production\"" 
-Режим вывода команд на экран (ECHO) включен.
-[context.production.environment] 
-"  HUGO_VERSION = \"0.125.0\"" 
+  HUGO_VERSION = "0.125.0" 
