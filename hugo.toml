@@ -1,4 +1,4 @@
-baseURL = "https://my-photo-portfolio.netlify.app/" 
-languageCode = "ru-ru" 
-title = "Фотограф Игорь - Профессиональная фотосъемка" 
-theme = "ananke" 
+baseURL = \"https://my-photo-portfolio.netlify.app/\" 
+languageCode = \"en-us\" 
+title = \"My Photo Portfolio\" 
+theme = \"ananke\" 
